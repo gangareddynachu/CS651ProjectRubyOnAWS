@@ -69,4 +69,4 @@ Eventually, the Photo Site is accessible the public IPv4 DNS of the EC2 instance
 
 # Author
 
-Su, Yeh-Tarn - yehtarnsu@gmail.com
+Gangareddy Nachu - gnachu@horizon.csueastbay.edu
