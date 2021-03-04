@@ -12,4 +12,4 @@ ENV RAILS_ENV production
 
 COPY . .
 
-CMD rake db:migrate RAILS_ENV=production assets:precompile && rails server
+CMD rake db:migrate RAILS_ENV=production assets:precompile &&   rails server
